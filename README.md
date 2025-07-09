@@ -37,25 +37,32 @@ An end-to-end machine learning solution that leverages the Wisconsin Diagnostic 
 ## Installation
 
 1. Clone the repository:
-   bash
+   ```
    git clone https://github.com/Ed-Gigaversity/breast-cancer-detection.git
-
-2. cd breast-cancer-prediction
-   
+   ```
+2. ```
+   cd breast-cancer-prediction
+   ```
 3. Create a virtual environment:
-   bash
+   ```
    python -m venv venv
+   ```
+   ```
    source venv/bin/activate   On Windows use venv\Scripts\activate
-   
-4. Install dependencies:
-   bash
+   ```
+   On Windows use
+   ```
+   venv\Scripts\activate
+   ```
+5. Install dependencies:
+   ```
    pip install -r requirements.txt
-   
-5. Run the application:
-   bash
+   ```
+6. Run the application:
+   ```
    python app.py
-   
-6. Open your browser to:
+   ```
+7. Open your browser to:
    http://127.0.0.1:5000/ 
 
 ## Usage
@@ -120,8 +127,15 @@ An end-to-end machine learning solution that leverages the Wisconsin Diagnostic 
 
 ![Project Screenshot](/screenshots/Prediction.png)
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
+## Credits
+* Python
+* Flask
+* HTML5
+* CSS3
+* JavaScript
+* scikit-learn
+* Logistic Regression
+* joblib
 
 ## License
 
