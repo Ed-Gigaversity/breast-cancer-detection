@@ -139,4 +139,4 @@ An end-to-end machine learning solution that leverages the Wisconsin Diagnostic 
 
 ## License
 
-[MIT License](LICENSE)
+This Project is for education purpose
